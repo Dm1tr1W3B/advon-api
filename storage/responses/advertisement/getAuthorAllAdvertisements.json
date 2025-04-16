@@ -1,0 +1,170 @@
+{
+    "data": {
+        "categories": [
+            {
+                "category_id": 7,
+                "photo_url": "http://advonback/storage/Categories/lichnyje-veshhi.png",
+                "category_name": "Личные вещи",
+                "category_key": "lichnyje-veshhi"
+            }
+        ],
+        "person": {
+            "id": 1161,
+            "name": "test",
+            "avatar": "http://advonback/storage/default/user.png",
+            "phone": "380674373307",
+            "contacts": [
+                {
+                    "photo_url": "http://advonback/storage/contacts/July2021/8rS2Cq5Wuu63YnrXjMIL.jpg",
+                    "name": "Telegram",
+                    "values": "dfgdfg"
+                }
+            ],
+            "created_at": "09.12.2020"
+        },
+        "advertisementList": {
+            "current_page": 1,
+            "data": [
+                {
+                    "advertisement_id": 5,
+                    "title": "title",
+                    "city": "Днепр",
+                    "latitude": "59.914524",
+                    "longitude": "30.317085",
+                    "image": "http://advonback/storage/product_additional_photos/June2021/1axLPgBIG5NNGl6UxEHy.png",
+                    "is_allocate": true,
+                    "is_top_country": true,
+                    "is_urgent": true,
+                    "reach_audience": 12,
+                    "reach_audience_name": "reach_audience_7",
+                    "amount": 1,
+                    "amount_name": "amount_7",
+                    "length": "1",
+                    "length_name": "length_7",
+                    "length_hint": "length_hint_7",
+                    "width": "3",
+                    "width_name": "width_7",
+                    "width_hint": "width_hint_7",
+                    "price_type": "торг возможен",
+                    "price": "12",
+                    "price_name": "price_7",
+                    "category_name": "Личные вещи",
+                    "translation_currency_code": "руб",
+                    "person": "Днепр  39",
+                    "is_favorite": false
+                },
+                {
+                    "advertisement_id": 2,
+                    "title": "edit dfg",
+                    "city": "Днепр",
+                    "latitude": "59.914524",
+                    "longitude": "30.317085",
+                    "image": "http://advonback/storage/product_additional_photos/August2021/R06CGGgRtU2DheBc66xM.png",
+                    "is_allocate": true,
+                    "is_top_country": true,
+                    "is_urgent": true,
+                    "reach_audience": 3,
+                    "reach_audience_name": "Охват",
+                    "amount": 3,
+                    "amount_name": "Количество штук",
+                    "length": "34",
+                    "length_name": "Длина",
+                    "length_hint": "см",
+                    "width": "45",
+                    "width_name": "Ширина",
+                    "width_hint": "см",
+                    "price_type": "договорная",
+                    "price": "0",
+                    "price_name": "Цена",
+                    "category_name": "Компьютеры",
+                    "translation_currency_code": "руб",
+                    "person": "test",
+                    "is_favorite": true
+                },
+                {
+                    "advertisement_id": 4,
+                    "title": "title",
+                    "city": "Днепр",
+                    "latitude": "59.914524",
+                    "longitude": "30.317085",
+                    "image": "http://advonback/storage/product_additional_photos/June2021/0iaS7oEmvAYPjPWt2uPB.png",
+                    "is_allocate": true,
+                    "is_top_country": true,
+                    "is_urgent": true,
+                    "reach_audience": 12,
+                    "reach_audience_name": "Охват",
+                    "amount": 1,
+                    "amount_name": "Количество штук",
+                    "length": "1",
+                    "length_name": "Длина",
+                    "length_hint": "см",
+                    "width": "3",
+                    "width_name": "Ширина",
+                    "width_hint": "см",
+                    "price_type": "торг возможен",
+                    "price": "12",
+                    "price_name": "Цена",
+                    "category_name": "Компьютеры",
+                    "translation_currency_code": "руб",
+                    "person": "Днепр  39",
+                    "is_favorite": false
+                },
+                {
+                    "advertisement_id": 21,
+                    "title": "Реклама Вашего бренда на ноутбуках",
+                    "city": "Днепр",
+                    "latitude": "59.914524",
+                    "longitude": "30.317085",
+                    "image": "http://advonback/storage/advertisements/old/June2021/VPJ0uVRHAP6x680mKS3B.jpg",
+                    "is_allocate": true,
+                    "is_top_country": true,
+                    "is_urgent": true,
+                    "reach_audience": 21000,
+                    "reach_audience_name": "Охват",
+                    "amount": 5,
+                    "amount_name": "Количество штук",
+                    "length": "22.7",
+                    "length_name": "Длина",
+                    "length_hint": "см",
+                    "width": "32.5",
+                    "width_name": "Ширина",
+                    "width_hint": "см",
+                    "price_type": "торг не возможен",
+                    "price": "1500",
+                    "price_name": "Цена",
+                    "category_name": "Компьютеры",
+                    "translation_currency_code": "руб",
+                    "person": "test",
+                    "is_favorite": false
+                }
+            ],
+            "first_page_url": "http://advonback/api/v1/getAuthorAllAdvertisements?advertisement_id=7&page=1",
+            "from": 1,
+            "last_page": 1,
+            "last_page_url": "http://advonback/api/v1/getAuthorAllAdvertisements?advertisement_id=7&page=1",
+            "links": [
+                {
+                    "url": null,
+                    "label": "&laquo; Previous",
+                    "active": false
+                },
+                {
+                    "url": "http://advonback/api/v1/getAuthorAllAdvertisements?advertisement_id=7&page=1",
+                    "label": "1",
+                    "active": true
+                },
+                {
+                    "url": null,
+                    "label": "Next &raquo;",
+                    "active": false
+                }
+            ],
+            "next_page_url": null,
+            "path": "http://advonback/api/v1/getAuthorAllAdvertisements",
+            "per_page": 10,
+            "prev_page_url": null,
+            "to": 4,
+            "total": 4
+        }
+    }
+}

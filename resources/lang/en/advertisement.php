@@ -1,0 +1,38 @@
+<?php
+
+return [
+
+    'Favorite advertisement has already been added' => 'Favorite advertisement has already been added',
+    'Advertisement not found' => 'Advertisement not found',
+    'Favorite advertisement was not save' => 'Favorite advertisement was not save',
+    'Favorite advertisement was not delete' => 'Favorite advertisement was not delete',
+    'in a day' => 'in a day',
+    'in week' => 'in week',
+    'per month' => 'per month',
+    'in year' => 'in year',
+    'for 20 years' => 'for 20 years',
+    "forever" => 'forever',
+    'To save an advertisement, you need to verify your phone' => 'To save an advertisement, you need to verify your phone',
+    'To save an advertisement, you need to verify your company phone' => 'To save an advertisement, you need to verify your company phone',
+    'To active  an advertisement, you need to verify your phone in settings' => 'To active  an advertisement, you need to verify your phone in settings',
+    'Company not found' => 'Company not found',
+    'Category not found' => 'Category not found',
+    'no_bargaining' => '',
+    'bargaining' => 'bargaining',
+    'negotiable' => 'negotiable',
+    'Advertisement comment was not save' => 'Advertisement comment was not save',
+    'Advertisement complaint was not stored' => 'Advertisement complaint was not stored',
+    'You are already subscribed' => 'You are already subscribed',
+    'You cannot subscribe to yourself' => 'You cannot subscribe to yourself',
+    'You cannot subscribe to your company' => 'You cannot subscribe to your company',
+    'Advertisement author cannot be empty' => 'Advertisement author cannot be empty',
+    'sender user id and sender company id cannot be empty' => 'sender user id and sender company id cannot be empty',
+    'Subscription was not delete' => 'Subscription was not delete',
+    'Advertisement is hide' => 'Advertisement is hide',
+    'Limit of active ads exceeded' => 'Limit of active ads exceeded',
+    'Advertisement not published (not active)' => 'Advertisement not published (not active)',
+    'Advertisement id and user id and company id cannot be empty' => 'Advertisement id and user id and company id cannot be empty',
+    'Child category is invalid' => 'Child category is invalid',
+    'Invalid input parameters' => 'Invalid input parameters',
+
+];

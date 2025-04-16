@@ -1,0 +1,72 @@
+{
+    "Б": {
+        "letter": "Б",
+        "group": [
+            {
+                "id": 3062741,
+                "wikiDataId": "Q24684326",
+                "type": "CITY",
+                "city": "Бехтемир-Аникино",
+                "name": "Бехтемир-Аникино",
+                "latitude": 52.655,
+                "longitude": 85.80194,
+                "population": 110
+            }
+        ]
+    },
+    "М": {
+        "letter": "М",
+        "group": [
+            {
+                "id": 3255774,
+                "wikiDataId": "Q16017006",
+                "type": "CITY",
+                "city": "Малиновка",
+                "name": "Малиновка",
+                "latitude": 53.9132,
+                "longitude": 85.4041,
+                "population": 36
+            },
+            {
+                "id": 3396287,
+                "wikiDataId": "Q4280032",
+                "type": "CITY",
+                "city": "Мамонтовский",
+                "name": "Мамонтовский",
+                "latitude": 52.321111111,
+                "longitude": 82.706388888,
+                "population": 27
+            }
+        ]
+    },
+    "О": {
+        "letter": "О",
+        "group": [
+            {
+                "id": 3041325,
+                "wikiDataId": "Q24684282",
+                "type": "CITY",
+                "city": "Образцовка",
+                "name": "Образцовка",
+                "latitude": 52.38382,
+                "longitude": 85.79275,
+                "population": 147
+            }
+        ]
+    },
+    "П": {
+        "letter": "П",
+        "group": [
+            {
+                "id": 3101060,
+                "wikiDataId": "Q24729304",
+                "type": "CITY",
+                "city": "Последниково",
+                "name": "Последниково",
+                "latitude": 53.1918,
+                "longitude": 86.5675,
+                "population": 128
+            }
+        ]
+    }
+}

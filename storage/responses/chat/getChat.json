@@ -1,0 +1,55 @@
+{
+    "data": {
+        "chat": {
+            "id": 1,
+            "type": "private",
+            "favorite": false,
+            "blocked": false,
+            "count_of_messages": 1,
+            "count_of_not_read": 0,
+            "last_message": {
+                "id": 1,
+                "chat_id": 1,
+                "advertisement_id": null,
+                "user_id": 1,
+                "company_id": null,
+                "text": "hi",
+                "created_at": "2021-06-16T23:05:47.000000Z",
+                "updated_at": "2021-06-16T23:05:47.000000Z"
+            },
+            "user": [
+                {
+                    "id": 1,
+                    "is_full_registration": false,
+                    "name": "Администрация",
+                    "email": "admin@advon.me",
+                    "phone": null,
+                    "description": "",
+                    "avatar": "http://127.0.0.1:8000/storage/users/default.png",
+                    "additional_photos": [],
+                    "country": "Украина",
+                    "region": "Киевская область",
+                    "city": "Киев",
+                    "contacts": [],
+                    "latitude": "50.5242",
+                    "longitude": "30.7971",
+                    "phone_verified_at": null,
+                    "email_verified_at": null,
+                    "blocked": false,
+                    "created_at": "2020.02.05",
+                    "count_of_unread_messages": 0
+                }
+            ]
+        },
+        "messages": [
+            {
+                "id": 1,
+                "text": "hi",
+                "created_at": "2021-06-16T23:05:47.000000Z",
+                "chat_id": 1,
+                "files": [],
+                "from": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "1": {
+        "chat_id": "3",
+        "favorite": true
+    },
+    "2": {
+        "chat_id": "3",
+        "favorite": false
+    }
+}

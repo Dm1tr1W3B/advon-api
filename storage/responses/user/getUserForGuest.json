@@ -1,0 +1,38 @@
+{
+    "data": {
+        "mian": {
+            "user_id": 4,
+            "user_name": "Антон Александрович Тарасов",
+            "user_description": "Блогер,в прошлом депутат, много путешествую,работаю в нефтегазе, снимаю на коптере.\r\nИмею свой проект Rusimm.com \r\nМасса идей, в том числе в строительстве,ищу инвесторов.",
+            "additional_photos": [
+                {
+                    "id": 1626,
+                    "photo_url": "http://advonback/storage/user_additional_photos/July2021/wtpAGr2Nis8OS0DefvTq.png",
+                    "type": "png"
+                },
+                {
+                    "id": 1627,
+                    "photo_url": "http://advonback/storage/user_additional_photos/July2021/8DRTwxrTWwyVAXAfhIxf.png",
+                    "type": "png"
+                }
+            ],
+            "city": "Москва",
+            "created_at": "28.01.2021"
+        },
+        "person": {
+            "id": 4,
+            "name": "Антон Александрович Тарасов",
+            "avatar": "http://advonback/storage/default/user.png",
+            "phone": "79262820720",
+            "contacts": [
+                {
+                    "photo_url": "http://advonback/storage/contacts/July2021/8rS2Cq5Wuu63YnrXjMIL.jpg",
+                    "name": "Telegram",
+                    "values": "dfgdfg"
+                }
+            ],
+            "created_at": "28.01.2021",
+            "number_advertisement": 3
+        }
+    }
+}

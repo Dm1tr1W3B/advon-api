@@ -1,0 +1,20 @@
+1 Зарегистрироватся
+	1.1 Создание учетной записи Шаг 1
+	создание пользователя storeUser(locale?:string,
+									phone:string,
+									email:string,
+									password:string,
+									password_confirmation:string,
+									is_agree:boolean)
+
+	1.2 Создание учетной записи Шаг 2
+	1.2.1 отправка смс кода userSendSmsKey (только токен)
+	1.2.2 проверка смс кода userCheckSmsKey (код тип токен)
+
+
+getCategoryList(type:string)
+getChildCategoryList(category_id :number)
+getCategoryFormFields(category_id :number)
+
+refresh(только токен)
+logout(только токен)

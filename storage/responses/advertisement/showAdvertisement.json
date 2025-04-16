@@ -1,0 +1,74 @@
+{
+    "data": {
+        "advertisement_id": 7,
+        "advertisement_type": "Исполнитель",
+        "person_type": "Частное лицо",
+        "title": "title",
+        "description": "description",
+        "additional_photos": [
+            {
+                "id": 909,
+                "photo_url": "http://advonback/storage/product_additional_photos/June2021/8kNsqQIJhcoGR0Op0FQe.png",
+                "type": "png"
+            },
+            {
+                "id": 910,
+                "photo_url": "http://advonback/storage/product_additional_photos/June2021/lgPI4jZIj5LpNap72OkD.png",
+                "type": "png"
+            }
+        ],
+        "currency": "руб",
+        "number_views_all": 0,
+        "number_views_day": 0,
+        "number_advertisement": 16,
+        "person": {
+            "id": 1161,
+            "name": "test",
+            "avatar": "http://advonback/storage/default/user.png",
+            "phone": "38XXXXXXX",
+            "contacts": [
+                {
+                    "photo_url": "http://advonback/storage/contacts/July2021/8rS2Cq5Wuu63YnrXjMIL.jpg",
+                    "name": "Telegram",
+                    "values": "dfXXXXXXX"
+                }
+            ],
+            "created_at": "09.12.2020"
+        },
+        "created_at": "24.06.2021",
+        "city": "Днепр",
+        "country": "Украина",
+        "is_favorite": false,
+        "is_allocate": false,
+        "is_top_country": true,
+        "is_urgent": false,
+        "ready_for_political_advertising": true,
+        "ready_for_political_advertising_name": "ready_for_political_advertising_7",
+        "hashtags": [
+            "ewrwe"
+        ],
+        "hashtags_name": "hashtags_7",
+        "payment": "1",
+        "payment_name": "payment_7",
+        "travel_abroad": false,
+        "travel_abroad_name": "travel_abroad_7",
+        "photo_report": false,
+        "photo_report_name": "photo_report_7",
+        "make_and_place_advertising": true,
+        "make_and_place_advertising_name": "make_and_place_advertising_7",
+        "description_name": "description_7",
+        "reach_audience": 12,
+        "reach_audience_name": "reach_audience_7",
+        "amount": 1,
+        "amount_name": "amount_7",
+        "length": "123456",
+        "length_name": "length_7",
+        "length_hint": "length_hint_7",
+        "width": "3",
+        "width_name": "width_7",
+        "width_hint": "width_hint_7",
+        "price_type": "договорная",
+        "price": "0",
+        "price_name": "price_7"
+    }
+}

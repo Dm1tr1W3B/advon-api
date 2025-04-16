@@ -1,0 +1,66 @@
+{
+    "data": {
+        "main": {
+            "company_id": 16,
+            "company_name": "Dostavista",
+            "company_description": "С 2012 года компания «Достависта» успешно предоставляет услуги срочной курьерской доставки по Москве как для физических, так и для юридических лиц, а также является надежным логистическим партнером по услугам доставки для интернет-магазинов и ресторанов!\r\n\r\nЭкспресс доставка документов и посылок для организаций, срочная доставка корреспонденции, покупок, цветов, еды, подарков и грузов до 1,5 т. — наиболее частые заказы в нашей компании.\r\n\r\nНо при этом мы не ограничиваем спектр курьерских услуг и без проблем можем купить и привезти товары и продукты из интернет-магазина, организовать доставку д",
+            "additional_photos": [],
+            "hashtags": [
+                "курьер",
+                "доставка",
+                "экспресс"
+            ],
+            "city": "Казань",
+            "created_at": "05.06.2019"
+        },
+        "person": {
+            "id": 16,
+            "name": "Dostavista",
+            "avatar": "http://advonback/storage/companies/old/July2021/FgZXCXxmcjiWRf08TdtP.jpg",
+            "phone": 79083421761,
+            "contacts": [],
+            "created_at": "05.06.2019",
+            "number_advertisement": 3
+        },
+        "advertisementList": [
+            {
+                "advertisement_id": 204,
+                "title": "Ваша реклама на наших грузовых кораблях",
+                "city": "Казань",
+                "latitude": "55.830009",
+                "longitude": "49.063015",
+                "image": "http://advonback/storage/advertisements/old/June2021/6yYlCsnnv1OC489O1UU6.jpg",
+                "is_allocate": true,
+                "is_top_country": true,
+                "is_urgent": true,
+                "travel_abroad": true,
+                "travel_abroad_name": "Выезжаете ли за границу",
+                "reach_audience": 50000,
+                "reach_audience_name": "Охват",
+                "amount": 15,
+                "amount_name": "Количество штук",
+                "length": "500",
+                "length_name": "Длина",
+                "length_hint": "см",
+                "width": "250",
+                "width_name": "Ширина",
+                "width_hint": "см",
+                "price_type": "торг не возможен",
+                "price": "35000",
+                "price_name": "Цена",
+                "category_name": "Корабли",
+                "translation_currency_code": "руб",
+                "person": "Dostavista",
+                "is_favorite": false
+            }
+        ],
+        "categories": [
+            {
+                "category_id": 20,
+                "photo_url": "http://advonback/storage/Categories/vodnaja-tehnika.png",
+                "category_name": "Водная техника",
+                "category_key": "vodnaja-tehnika"
+            }
+        ]
+    }
+}

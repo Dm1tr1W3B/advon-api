@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "company_id": 22,
+            "company_name": "Авиценна-Строй",
+            "company_logo": ""
+        },
+        {
+            "company_id": 478,
+            "company_name": "Кофейня Coffe Black",
+            "company_logo": ""
+        },
+        {
+            "company_id": 473,
+            "company_name": "Бьюти Лаунж",
+            "company_logo": ""
+        },
+        {
+            "company_id": 470,
+            "company_name": "Кострома Трансфер",
+            "company_logo": ""
+        },
+        {
+            "company_id": 464,
+            "company_name": "Колл-центр Wilstream",
+            "company_logo": ""
+        },
+        {
+            "company_id": 457,
+            "company_name": "Status Voyage",
+            "company_logo": ""
+        },
+        {
+            "company_id": 463,
+            "company_name": "Частная авиа компания Private Jet Charter",
+            "company_logo": ""
+        },
+        {
+            "company_id": 462,
+            "company_name": "Отель \"АМАКС\"",
+            "company_logo": ""
+        },
+        {
+            "company_id": 461,
+            "company_name": "Лодочный кемпинг \"Шалаш\"",
+            "company_logo": ""
+        },
+        {
+            "company_id": 454,
+            "company_name": "Компания \"Аренда авто\"",
+            "company_logo": ""
+        },
+        {
+            "company_id": 451,
+            "company_name": "«АО «ГСК «Югория»",
+            "company_logo": ""
+        },
+        {
+            "company_id": 442,
+            "company_name": "Сеть хостелов \"КОЙКО\"",
+            "company_logo": ""
+        },
+        {
+            "company_id": 447,
+            "company_name": "Кондитер Брянск",
+            "company_logo": ""
+        },
+        {
+            "company_id": 446,
+            "company_name": "Парикмахерская Golovansk",
+            "company_logo": ""
+        },
+        {
+            "company_id": 443,
+            "company_name": "Бар Check In",
+            "company_logo": ""
+        },
+        {
+            "company_id": 441,
+            "company_name": "Кальянная Lightroom Москва",
+            "company_logo": ""
+        },
+        {
+            "company_id": 435,
+            "company_name": "Туристическое агенство “VERONTOUR”",
+            "company_logo": ""
+        },
+        {
+            "company_id": 437,
+            "company_name": "Спортивный клуб \"СПАРТА\"",
+            "company_logo": ""
+        }
+    ]
+}

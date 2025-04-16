@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "complaint_type_id": 17,
+            "complaint_type_name": "Человек редиска"
+        },
+        {
+            "complaint_type_id": 18,
+            "complaint_type_name": "Неверная рубрика"
+        },
+        {
+            "complaint_type_id": 19,
+            "complaint_type_name": "Другое"
+        }
+    ]
+}

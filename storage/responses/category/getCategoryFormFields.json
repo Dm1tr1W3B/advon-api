@@ -1,0 +1,102 @@
+{
+    "data": [
+        {
+            "key": "price",
+            "type": "text",
+            "form_field_id": 1,
+            "name": "Цена",
+            "hint": ""
+        },
+        {
+            "key": "ready_for_political_advertising",
+            "type": "checkbox",
+            "form_field_id": 6,
+            "name": "Готовы к политической рекламе",
+            "hint": ""
+        },
+        {
+            "key": "hashtags",
+            "type": "text",
+            "form_field_id": 3,
+            "name": "Хештеги",
+            "hint": "Хештеги (Введите названия компаний, чьё внимание вы хотели бы обратить на это объявление, через запятую, без “#”)"
+        },
+        {
+            "key": "reach_audience",
+            "type": "text",
+            "form_field_id": 4,
+            "name": "Охват",
+            "hint": "Сколько людей смогут увидеть эту вещь в указанный период?"
+        },
+        {
+            "key": "payment",
+            "type": "select",
+            "form_field_id": 2,
+            "name": "Оплата",
+            "hint": ""
+        },
+        {
+            "key": "travel_abroad",
+            "type": "checkbox",
+            "form_field_id": 5,
+            "name": "Выезд за границу",
+            "hint": ""
+        },
+        {
+            "key": "photo_report",
+            "type": "checkbox",
+            "form_field_id": 7,
+            "name": "Фотоотчет",
+            "hint": ""
+        },
+        {
+            "key": "make_and_place_advertising",
+            "type": "checkbox",
+            "form_field_id": 8,
+            "name": "Сами изготовим и разместим рекламу",
+            "hint": ""
+        },
+        {
+            "key": "amount",
+            "type": "text",
+            "form_field_id": 9,
+            "name": "Количество",
+            "hint": "Количество компьютеров под рекламу"
+        },
+        {
+            "key": "length",
+            "type": "text",
+            "form_field_id": 10,
+            "name": "length_7_8",
+            "hint": "см"
+        },
+        {
+            "key": "width",
+            "type": "text",
+            "form_field_id": 11,
+            "name": "Ширина",
+            "hint": "см"
+        },
+        {
+            "key": "description",
+            "type": "textarea",
+            "form_field_id": 27,
+            "name": "Описание",
+            "hint": "Напишите, как часто выбранная область тела будет на виду. Опишите рекламную привлекательность рекламодателям."
+        },
+        {
+            "key": "negotiable",
+            "type": "checkbox",
+            "form_field_id": 24,
+            "name": "Договорная",
+            "hint": ""
+        },
+        {
+            "key": "bargaining",
+            "type": "checkbox",
+            "form_field_id": 25,
+            "name": "Торг",
+            "hint": ""
+        }
+    ]
+}

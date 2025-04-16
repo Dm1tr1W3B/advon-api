@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "advertisement_id": 95,
+            "title": "Размещение рекламы в вагонах метро, метрополитене",
+            "price": "14000",
+            "price_type": "торг не возможен",
+            "city": "Казань",
+            "image": "http://advonback/storage/advertisements/old/June2021/iw1uvliTR0lOhNmfvWs8.jpg",
+            "payment_name": "в день",
+            "category_name": "Метро",
+            "translation_currency_code": "руб",
+            "person": "\"ATA-Company\" LLC"
+        },
+        {
+            "advertisement_id": 937,
+            "title": "Реклама в служебных автобусах",
+            "price": "1000",
+            "price_type": "торг не возможен",
+            "city": "Москва",
+            "image": "http://advonback/storage/advertisements/old/June2021/XgCCEiZO4GCHcMcF7LkT.jpg",
+            "payment_name": "в месяц",
+            "category_name": "Автобусы",
+            "translation_currency_code": "руб",
+            "person": "Аниме-магазин НЯПИ"
+        }
+    ]
+}

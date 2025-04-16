@@ -1,0 +1,171 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "type": "private",
+            "favorite": false,
+            "blocked": false,
+            "count_of_messages": 1,
+            "count_of_not_read": 0,
+            "last_message": {
+                "id": 1,
+                "chat_id": 1,
+                "advertisement_id": null,
+                "user_id": 1,
+                "company_id": null,
+                "text": "hi",
+                "created_at": "2021-06-16T23:05:47.000000Z",
+                "updated_at": "2021-06-16T23:05:47.000000Z"
+            },
+            "user": [
+                {
+                    "id": 1,
+                    "is_full_registration": false,
+                    "name": "Администрация",
+                    "email": "admin@advon.me",
+                    "phone": null,
+                    "description": "",
+                    "avatar": "http://127.0.0.1:8000/storage/users/default.png",
+                    "additional_photos": [],
+                    "country": "Украина",
+                    "region": "Киевская область",
+                    "city": "Киев",
+                    "contacts": [],
+                    "latitude": "50.5242",
+                    "longitude": "30.7971",
+                    "phone_verified_at": null,
+                    "email_verified_at": null,
+                    "blocked": false,
+                    "created_at": "2020.02.05",
+                    "count_of_unread_messages": 0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "type": "company",
+            "favorite": false,
+            "blocked": false,
+            "count_of_messages": 23,
+            "count_of_not_read": 22,
+            "last_message": {
+                "id": 24,
+                "chat_id": 2,
+                "advertisement_id": null,
+                "user_id": 1,
+                "company_id": null,
+                "text": "hi",
+                "created_at": "2021-06-16T23:39:36.000000Z",
+                "updated_at": "2021-06-16T23:39:36.000000Z"
+            },
+            "user": [
+                {
+                    "id": 1,
+                    "is_full_registration": false,
+                    "name": "Администрация",
+                    "email": "admin@advon.me",
+                    "phone": null,
+                    "description": "",
+                    "avatar": "http://127.0.0.1:8000/storage/users/default.png",
+                    "additional_photos": [],
+                    "country": "Украина",
+                    "region": "Киевская область",
+                    "city": "Киев",
+                    "contacts": [],
+                    "latitude": "50.5242",
+                    "longitude": "30.7971",
+                    "phone_verified_at": null,
+                    "email_verified_at": null,
+                    "blocked": false,
+                    "created_at": "2020.02.05",
+                    "count_of_unread_messages": 0
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "type": "private",
+            "favorite": false,
+            "blocked": false,
+            "count_of_messages": 6,
+            "count_of_not_read": 0,
+            "last_message": {
+                "id": 30,
+                "chat_id": 3,
+                "advertisement_id": null,
+                "user_id": 5,
+                "company_id": null,
+                "text": "hi",
+                "created_at": "2021-06-17T00:35:01.000000Z",
+                "updated_at": "2021-06-17T00:35:01.000000Z"
+            },
+            "user": [
+                {
+                    "id": 3,
+                    "is_full_registration": false,
+                    "name": "moderator",
+                    "email": "moderator@moderator.com",
+                    "phone": null,
+                    "description": "",
+                    "avatar": "http://127.0.0.1:8000/storage/users/default.png",
+                    "additional_photos": [],
+                    "country": null,
+                    "region": null,
+                    "city": null,
+                    "contacts": [],
+                    "latitude": null,
+                    "longitude": null,
+                    "phone_verified_at": null,
+                    "email_verified_at": null,
+                    "blocked": false,
+                    "created_at": "2021.06.07",
+                    "count_of_unread_messages": 6
+                }
+            ]
+        }
+    ],
+    "links": {
+        "first": "http://127.0.0.1:8000/api/v1/getChats?page=1",
+        "last": "http://127.0.0.1:8000/api/v1/getChats?page=1",
+        "prev": null,
+        "next": null
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 1,
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "http://127.0.0.1:8000/api/v1/getChats?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": null,
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "path": "http://127.0.0.1:8000/api/v1/getChats",
+        "per_page": 7,
+        "to": 3,
+        "total": 3
+    },
+    "_comment": "эти цифры только в запросе getChats",
+    "count_all": 3,
+    "count_blocked": 0,
+    "count_favorite": 2,
+    "count_private": 2,
+    "count_company": 1,
+    "count_all_unread": 1,
+    "count_blocked_unread": 0,
+    "count_favorite_unread": 1,
+    "count_private_unread": 0,
+    "count_company_unread": 0
+}
+

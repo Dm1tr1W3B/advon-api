@@ -1,0 +1,37 @@
+{
+    "А": {
+        "letter": "А",
+        "group": [
+            {
+                "countryCode": "RU",
+                "code": "ALT",
+                "name": "Алтайский край"
+            },
+            {
+                "countryCode": "RU",
+                "code": "AMU",
+                "name": "Амурская область"
+            },
+            {
+                "countryCode": "RU",
+                "code": "ARK",
+                "name": "Архангельская область"
+            },
+            {
+                "countryCode": "RU",
+                "code": "AST",
+                "name": "Астраханская область"
+            }
+        ]
+    },
+    "Р": {
+        "letter": "Р",
+        "group": [
+            {
+                "countryCode": "RU",
+                "code": "AL",
+                "name": "Республика Алтай"
+            }
+        ]
+    }
+}

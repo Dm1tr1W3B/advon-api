@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "name": "Ватикан",
+            "code": "VA",
+            "flag": "http://127.0.0.1:8000/storage/flags/va.png"
+        },
+        {
+            "name": "Гана",
+            "code": "GH",
+            "flag": "http://127.0.0.1:8000/storage/flags/gh.png"
+        },
+        {
+            "name": "Намибия",
+            "code": "NA",
+            "flag": "http://127.0.0.1:8000/storage/flags/na.png"
+        },
+        {
+            "name": "Черногория",
+            "code": "ME",
+            "flag": "http://127.0.0.1:8000/storage/flags/me.png"
+        },
+        {
+            "name": "Эфиопия",
+            "code": "ET",
+            "flag": "http://127.0.0.1:8000/storage/flags/et.png"
+        }
+    ]
+}

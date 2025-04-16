@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "countryCode": "UA",
+            "code": "12",
+            "name": "Днепропетровская область"
+        },
+        {
+            "countryCode": "UA",
+            "code": "43",
+            "name": "Крым"
+        },
+        {
+            "countryCode": "UA",
+            "code": "71",
+            "name": "Черкасская область"
+        },
+        {
+            "countryCode": "UA",
+            "code": "74",
+            "name": "Черниговская область"
+        },
+        {
+            "countryCode": "UA",
+            "code": "77",
+            "name": "Черновицкая область"
+        }
+    ]
+}

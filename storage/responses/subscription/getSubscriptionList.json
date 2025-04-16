@@ -1,0 +1,17 @@
+{
+    "data": [
+        {
+            "advertisement_id": 85,
+            "title": "Наружная реклама на фасаде здания",
+            "price": "10000",
+            "price_type": "торг не возможен",
+            "reach_audience": 13000,
+            "payment_name": "в месяц",
+            "category_name": "Нежилые здания",
+            "translation_currency_code": "руб",
+            "person": "\"ATA-Company\" LLC",
+            "person_image": "http://advonback/storage/companies/old/June2021/yyMb9GLOfhdqNzgIahqU.jpg",
+            "city": "Казань"
+        }
+    ]
+}

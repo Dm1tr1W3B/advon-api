@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "category_id": 7,
+            "photo_url": "http://advonback/storage/Categories/lichnyje-veshhi.png",
+            "category_name": "Личные вещи"
+        },
+        {
+            "category_id": 11,
+            "photo_url": "http://advonback/storage/Categories/avtotransport.png",
+            "category_name": "Автотранспорт"
+        }
+    ]
+}

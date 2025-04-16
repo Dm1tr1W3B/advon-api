@@ -1,0 +1,193 @@
+{
+    "data": {
+        "category": {
+            "category_key": "vodnaja-tehnika",
+            "photo_url": "http://advonback/storage/Categories/vodnaja-tehnika.png",
+            "category_name": "Водная техника",
+            "count": 4
+        },
+        "childCategories": [
+            {
+                "child_category_name": "Корабли",
+                "child_category_key": "korabl",
+                "count": 4
+            },
+            {
+                "child_category_name": "Яхты",
+                "child_category_key": "jahta",
+                "count": 0
+            },
+            {
+                "child_category_name": "Маломерные катера",
+                "child_category_key": "malomernyj-kater",
+                "count": 0
+            },
+            {
+                "child_category_name": "Лодки",
+                "child_category_key": "lodka",
+                "count": 0
+            },
+            {
+                "child_category_name": "Другая техника",
+                "child_category_key": "drugaja-tehnika",
+                "count": 0
+            }
+        ],
+        "advertisementList": {
+            "current_page": 1,
+            "data": [
+                {
+                    "advertisement_id": 1149,
+                    "title": "Реклама на лайнере \"Tui\"",
+                    "city": "Москва",
+                    "latitude": "55.731606",
+                    "longitude": "37.633373",
+                    "image": "http://advonback/storage/products/old/June2021/UowZQPVkCK9OhJNM6r7V.jpg",
+                    "is_allocate": false,
+                    "is_top_country": false,
+                    "is_urgent": false,
+                    "travel_abroad": true,
+                    "travel_abroad_name": "Выезжаете ли за границу",
+                    "reach_audience": 580000,
+                    "reach_audience_name": "Охват",
+                    "amount": 2,
+                    "amount_name": "Количество штук",
+                    "length": "1500",
+                    "length_name": "Длина",
+                    "length_hint": "см",
+                    "width": "1000",
+                    "width_name": "Ширина",
+                    "width_hint": "см",
+                    "price_type": "договорная",
+                    "price": "0",
+                    "price_name": "Цена",
+                    "category_name": "Корабли",
+                    "translation_currency_code": "руб",
+                    "person": "On-line курс: Свадебная Fine Art фотография",
+                    "company_is_verification": false,
+                    "is_favorite": false
+                },
+                {
+                    "advertisement_id": 1160,
+                    "title": "Реклама в каютах нашего лайнера",
+                    "city": "Москва",
+                    "latitude": "55.731606",
+                    "longitude": "37.633373",
+                    "image": "http://advonback/storage/products/old/June2021/7WWIwa5Dj7M5MehaAQ1w.jpg",
+                    "is_allocate": false,
+                    "is_top_country": false,
+                    "is_urgent": false,
+                    "travel_abroad": true,
+                    "travel_abroad_name": "Выезжаете ли за границу",
+                    "reach_audience": 16000,
+                    "reach_audience_name": "Охват",
+                    "amount": 2,
+                    "amount_name": "Количество штук",
+                    "length": "50",
+                    "length_name": "Длина",
+                    "length_hint": "см",
+                    "width": "38",
+                    "width_name": "Ширина",
+                    "width_hint": "см",
+                    "price_type": "",
+                    "price": "8000",
+                    "price_name": "Цена",
+                    "category_name": "Корабли",
+                    "translation_currency_code": "руб",
+                    "person": "On-line курс: Свадебная Fine Art фотография",
+                    "company_is_verification": false,
+                    "is_favorite": false
+                },
+                {
+                    "advertisement_id": 204,
+                    "title": "Ваша реклама на наших грузовых кораблях",
+                    "city": "Казань",
+                    "latitude": "55.830009",
+                    "longitude": "49.063015",
+                    "image": "http://advonback/storage/products/old/June2021/6yYlCsnnv1OC489O1UU6.jpg",
+                    "is_allocate": false,
+                    "is_top_country": false,
+                    "is_urgent": false,
+                    "travel_abroad": true,
+                    "travel_abroad_name": "Выезжаете ли за границу",
+                    "reach_audience": 50000,
+                    "reach_audience_name": "Охват",
+                    "amount": 15,
+                    "amount_name": "Количество штук",
+                    "length": "500",
+                    "length_name": "Длина",
+                    "length_hint": "см",
+                    "width": "250",
+                    "width_name": "Ширина",
+                    "width_hint": "см",
+                    "price_type": "",
+                    "price": "35000",
+                    "price_name": "Цена",
+                    "category_name": "Корабли",
+                    "translation_currency_code": "руб",
+                    "person": "Dostavista",
+                    "company_is_verification": false,
+                    "is_favorite": false
+                },
+                {
+                    "advertisement_id": 1155,
+                    "title": "Размещение рекламы на палубе лайнера",
+                    "city": "Москва",
+                    "latitude": "55.731606",
+                    "longitude": "37.633373",
+                    "image": "http://advonback/storage/products/old/June2021/y3gPk5TF3TwgaOu7ikqL.jpg",
+                    "is_allocate": false,
+                    "is_top_country": false,
+                    "is_urgent": false,
+                    "travel_abroad": true,
+                    "travel_abroad_name": "Выезжаете ли за границу",
+                    "reach_audience": 10000,
+                    "reach_audience_name": "Охват",
+                    "amount": 8,
+                    "amount_name": "Количество штук",
+                    "length": "70",
+                    "length_name": "Длина",
+                    "length_hint": "см",
+                    "width": "50",
+                    "width_name": "Ширина",
+                    "width_hint": "см",
+                    "price_type": "",
+                    "price": "57000",
+                    "price_name": "Цена",
+                    "category_name": "Корабли",
+                    "translation_currency_code": "руб",
+                    "person": "On-line курс: Свадебная Fine Art фотография",
+                    "company_is_verification": false,
+                    "is_favorite": false
+                }
+            ],
+            "first_page_url": "http://advonback/api/v1/getAdvertisementsByCategory?category_key=vodnaja-tehnika&advertisement_type=performer&person_type=company&payment_ids%5B0%5D=1&payment_ids%5B1%5D=2&payment_ids%5B2%5D=3&payment_ids%5B3%5D=4&payment_ids%5B4%5D=5&payment_ids%5B5%5D=6&page=1",
+            "from": 1,
+            "last_page": 1,
+            "last_page_url": "http://advonback/api/v1/getAdvertisementsByCategory?category_key=vodnaja-tehnika&advertisement_type=performer&person_type=company&payment_ids%5B0%5D=1&payment_ids%5B1%5D=2&payment_ids%5B2%5D=3&payment_ids%5B3%5D=4&payment_ids%5B4%5D=5&payment_ids%5B5%5D=6&page=1",
+            "links": [
+                {
+                    "url": null,
+                    "label": "&laquo; Previous",
+                    "active": false
+                },
+                {
+                    "url": "http://advonback/api/v1/getAdvertisementsByCategory?category_key=vodnaja-tehnika&advertisement_type=performer&person_type=company&payment_ids%5B0%5D=1&payment_ids%5B1%5D=2&payment_ids%5B2%5D=3&payment_ids%5B3%5D=4&payment_ids%5B4%5D=5&payment_ids%5B5%5D=6&page=1",
+                    "label": "1",
+                    "active": true
+                },
+                {
+                    "url": null,
+                    "label": "Next &raquo;",
+                    "active": false
+                }
+            ],
+            "next_page_url": null,
+            "path": "http://advonback/api/v1/getAdvertisementsByCategory",
+            "per_page": 10,
+            "prev_page_url": null,
+            "to": 4,
+            "total": 4
+        }
+    }
+}

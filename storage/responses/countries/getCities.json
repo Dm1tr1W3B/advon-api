@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "id": 3019567,
+            "wikiDataId": "Q35695199",
+            "type": "CITY",
+            "city": "Khashchevoye",
+            "name": "Khashchevoye",
+            "latitude": 48.70138,
+            "longitude": 35.3401,
+            "population": 852
+        },
+        {
+            "id": 112331,
+            "wikiDataId": "Q4152213",
+            "type": "CITY",
+            "city": "Гупаловка",
+            "name": "Гупаловка",
+            "latitude": 49.11139,
+            "longitude": 34.73556,
+            "population": 1347
+        },
+        {
+            "id": 3100278,
+            "wikiDataId": "Q3461063",
+            "type": "CITY",
+            "city": "Сад",
+            "name": "Сад",
+            "latitude": 48.42663,
+            "longitude": 35.24787,
+            "population": 482
+        },
+        {
+            "id": 112364,
+            "wikiDataId": "Q4440923",
+            "type": "CITY",
+            "city": "Старые Кодаки",
+            "name": "Старые Кодаки",
+            "latitude": 48.379173992,
+            "longitude": 35.133173819,
+            "population": 1619
+        },
+        {
+            "id": 112561,
+            "wikiDataId": "Q3516629",
+            "type": "CITY",
+            "city": "Чертомлык",
+            "name": "Чертомлык",
+            "latitude": 47.62315,
+            "longitude": 34.14198,
+            "population": 1345
+        }
+    ]
+}

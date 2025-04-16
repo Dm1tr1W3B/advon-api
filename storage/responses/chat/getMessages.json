@@ -1,0 +1,33 @@
+{
+    "data": {
+        "user_to": {
+            "name": "test",
+            "avatar": "http://advonback/storage/default/user.png"
+        },
+        "user_from": {
+            "id": 27,
+            "name": "Тимур Гареев",
+            "avatar": "http://advonback/storage/users/old/June2021/27m2ffcdb96.jpg",
+            "message_date": ""
+        },
+        "chat": [
+            {
+                "message_id": 18,
+                "message_date": "03.08.2021 08:04",
+                "files": [],
+                "author": "from",
+                "message": {
+                    "text": "Если Вас устраивает предложенная цена, пожалуйста перезвоните по указанному номеру телефона.",
+                    "price": "10.23",
+                    "translation_currency_code": "руб",
+                    "phone": "380674373307",
+                    "advertisement": {
+                        "id": 137,
+                        "title": "Разместим рекламу на одном из автомобилей",
+                        "image": "http://advonback/storage/advertisements/old/June2021/26um0EiC9qtu2YYn8iII.jpg"
+                    }
+                }
+            }
+        ]
+    }
+}

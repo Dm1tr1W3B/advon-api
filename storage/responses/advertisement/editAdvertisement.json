@@ -1,0 +1,150 @@
+{
+    "data": {
+        "advertisement": {
+            "advertisement_id": 1,
+            "advertisement_type": "performer",
+            "person_type": "company",
+            "category": {
+                "category_id": 46,
+                "photo_url": "http://advonback/storage/Categories/mediaprojekty.png",
+                "category_name": "Медиапроекты"
+            },
+            "child_category": {
+                "child_category_id": 60,
+                "child_category_name": "Промокампании"
+            },
+            "title": "title",
+            "description": "description",
+            "additional_photos": [
+                {
+                    "id": 887,
+                    "photo_url": "http://advonback/storage/product_additional_photos/June2021/duym5mOs88LEdWulwyhi.png",
+                    "type": "png"
+                },
+                {
+                    "id": 888,
+                    "photo_url": "http://advonback/storage/product_additional_photos/June2021/7HkQVaOtYnjZqXvAtl6h.png",
+                    "type": "png"
+                }
+            ],
+            "currency": {
+                "currency_id": 1,
+                "code": "RUB",
+                "name": "Российский рубель"
+            },
+            "is_published": true,
+            "price": "12",
+            "ready_for_political_advertising": false,
+            "hashtags": [
+                "ewrwe"
+            ],
+            "reach_audience": 12,
+            "payment": "1",
+            "make_and_place_advertising": true,
+            "video": "",
+            "deadline_date": "",
+            "sample": "http://advonback/storage//additional_sample/June2021/Vls58oIv9k5jUo8CyAxHYZAzVyEzMz91uLBPynrk.mp3",
+            "bargaining": true
+        },
+        "formFields": {
+            "price_group": {
+                "price": {
+                    "key": "price",
+                    "type": "text",
+                    "form_field_id": 1,
+                    "is_show": true,
+                    "name": "Цена",
+                    "hint": ""
+                },
+                "negotiable": {
+                    "key": "negotiable",
+                    "type": "checkbox",
+                    "form_field_id": 24,
+                    "is_show": true,
+                    "name": "Договорная",
+                    "hint": ""
+                },
+                "bargaining": {
+                    "key": "bargaining",
+                    "type": "checkbox",
+                    "form_field_id": 25,
+                    "is_show": true,
+                    "name": "Торг",
+                    "hint": ""
+                }
+            },
+            "ready_for_political_advertising": {
+                "key": "ready_for_political_advertising",
+                "type": "checkbox",
+                "form_field_id": 6,
+                "is_show": true,
+                "name": "Это политическая реклама?",
+                "hint": ""
+            },
+            "hashtags": {
+                "key": "hashtags",
+                "type": "hashtags",
+                "form_field_id": 3,
+                "is_show": true,
+                "name": "Хештеги",
+                "hint": "Хештеги (Введите названия компаний, чьё внимание вы хотели бы обратить на это объявление, через запятую, без “#”)"
+            },
+            "reach_audience": {
+                "key": "reach_audience",
+                "type": "text",
+                "form_field_id": 4,
+                "is_show": true,
+                "name": "Охват",
+                "hint": "Сколько людей смогут видеть эту рекламу?"
+            },
+            "payment": {
+                "key": "payment",
+                "type": "select",
+                "form_field_id": 2,
+                "is_show": true,
+                "name": "Оплата",
+                "hint": ""
+            },
+            "make_and_place_advertising": {
+                "key": "make_and_place_advertising",
+                "type": "checkbox",
+                "form_field_id": 8,
+                "is_show": true,
+                "name": "Сами изготовите рекламу",
+                "hint": ""
+            },
+            "video": {
+                "key": "video",
+                "type": "text",
+                "form_field_id": 12,
+                "is_show": true,
+                "name": "Видео",
+                "hint": ""
+            },
+            "deadline_date": {
+                "key": "deadline_date",
+                "type": "datetime",
+                "form_field_id": 13,
+                "is_show": true,
+                "name": "Дата дедлайна",
+                "hint": "Дата, позже которой заявки на рекламу не принимаются"
+            },
+            "sample": {
+                "key": "sample",
+                "type": "file",
+                "form_field_id": 14,
+                "is_show": true,
+                "name": "Сэмпл",
+                "hint": ""
+            },
+            "description": {
+                "key": "description",
+                "type": "textarea",
+                "form_field_id": 27,
+                "is_show": true,
+                "name": "Описание",
+                "hint": "Опишите где хотите вставить рекламу. На какую аудиторию рассчитан проект. Для каких стран?"
+            }
+        }
+    }
+}

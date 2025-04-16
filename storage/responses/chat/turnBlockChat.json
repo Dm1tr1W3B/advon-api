@@ -1,0 +1,10 @@
+{
+    "1": {
+        "chat_id": "3",
+        "blocked": true
+    },
+    "2": {
+        "chat_id": "3",
+        "blocked": false
+    }
+}

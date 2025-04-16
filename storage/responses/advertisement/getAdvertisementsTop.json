@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "advertisement_id": 5,
+            "title": "title",
+            "city": "Днепр",
+            "latitude": "59.914524",
+            "longitude": "30.317085",
+            "image": "http://advonback/storage/product_additional_photos/June2021/1axLPgBIG5NNGl6UxEHy.png",
+            "is_allocate": false,
+            "is_top_country": true,
+            "is_urgent": false,
+            "reach_audience": 12,
+            "reach_audience_name": "reach_audience_7",
+            "amount": 1,
+            "amount_name": "amount_7",
+            "length": "1",
+            "length_name": "length_7",
+            "length_hint": "length_hint_7",
+            "width": "3",
+            "width_name": "width_7",
+            "width_hint": "width_hint_7",
+            "price_type": "торг возможен",
+            "price": "12",
+            "price_name": "price_7",
+            "category_name": "Личные вещи",
+            "translation_currency_code": "руб",
+            "person": "Днепр  39",
+            "is_favorite": false
+        }
+    ]
+}
